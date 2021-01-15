@@ -1,4 +1,4 @@
-# 
+# Pull request template
 
 *Issue #, if available:*
 
